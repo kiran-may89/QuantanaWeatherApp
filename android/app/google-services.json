@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "825787002279-u5ll6i29j485sn3c5f8lq85mn9g2faib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.weather.quantana",
+            "certificate_hash": "6c3a2d8fb748067a701f081d7f0c672ec51d2c90"
+          }
+        },
+        {
           "client_id": "825787002279-pr43iji9o0sm3igp9nssbj911ti1ijqg.apps.googleusercontent.com",
           "client_type": 3
         }
