@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "825787002279",
+    "firebase_url": "https://weatherapp-377e6.firebaseio.com",
+    "project_id": "weatherapp-377e6",
+    "storage_bucket": "weatherapp-377e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825787002279:android:11862b23c765cfa0709a82",
+        "android_client_info": {
+          "package_name": "com.app.weather.quantana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825787002279-pr43iji9o0sm3igp9nssbj911ti1ijqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-t4wqbTpu4bSnCU0tZAxEcNvkx26Rlhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825787002279-pr43iji9o0sm3igp9nssbj911ti1ijqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
